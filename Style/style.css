@@ -1,0 +1,56 @@
+body{
+    background-color:#F2F4F8;
+    padding: 50px;
+}
+
+.main{
+    background-color:#fff;
+    height: 388px;
+    width: 252px;
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+
+.save span {
+    background-color:#6E2594;
+    border-radius: 0 15px 15px 0;
+    color: #fff;
+   padding: 5px;
+   text-align: left;
+   font-size: small;
+   
+}
+
+.img {
+    text-align: center;
+    padding-top: 5px;
+}
+.discription{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.price {
+    padding-top: 25px;
+    padding-bottom: 35px;
+    padding-left: 20px;
+}
+.price .new{
+    color: #EF5256;
+    font-size: larger;
+}
+
+.price .old{
+   text-decoration: line-through;
+   font-size: small;
+   padding-left: 10PX;
+}
+
+
+
+
+
+
+
+
